@@ -1,0 +1,12 @@
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/bin/Debug/netcoreapp3.1/BandExample.deps.json
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/bin/Debug/netcoreapp3.1/BandExample.runtimeconfig.json
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/bin/Debug/netcoreapp3.1/BandExample.runtimeconfig.dev.json
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/bin/Debug/netcoreapp3.1/BandExample.dll
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/bin/Debug/netcoreapp3.1/BandExample.pdb
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/obj/Debug/netcoreapp3.1/BandExample.csprojAssemblyReference.cache
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/obj/Debug/netcoreapp3.1/BandExample.AssemblyInfoInputs.cache
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/obj/Debug/netcoreapp3.1/BandExample.AssemblyInfo.cs
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/obj/Debug/netcoreapp3.1/BandExample.csproj.CoreCompileInputs.cache
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/obj/Debug/netcoreapp3.1/BandExample.dll
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/obj/Debug/netcoreapp3.1/BandExample.pdb
+/Users/Ryan.Sharpe/Projects/C#VariablePractice/BandExample/BandExample/obj/Debug/netcoreapp3.1/BandExample.genruntimeconfig.cache

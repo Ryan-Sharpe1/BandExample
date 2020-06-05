@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1B3F03E8-CC79-47B1-BE8E-A62E300B5DE8}|Default">
+  <MonoDevelop.Ide.ItemProperties.BandExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BandExample/Musician.cs">
+    <Files>
+      <File FileName="BandExample/Program.cs" Line="13" Column="36" />
+      <File FileName="BandExample/Venue.cs" Line="25" Column="6" />
+      <File FileName="BandExample/Band.cs" Line="65" Column="6" />
+      <File FileName="BandExample/Musician.cs" Line="13" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="BandExample" expanded="True" selected="True">
+            <Node name="BandExample" expanded="True">
+              <Node name="BandExample" expanded="True">
+                <Node name="BandExample.Program" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
